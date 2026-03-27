@@ -1,0 +1,8 @@
+{
+  "name": "E-Media Sosial",
+  "description": "A futuristic social media platform with IID validation, AI Guard protection, and a dynamic tri-screen interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
